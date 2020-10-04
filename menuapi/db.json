@@ -1,0 +1,30 @@
+{
+  "katalog": [
+    {
+      "namamenu": "Nasi Goreng",
+      "harga": "10000",
+      "kategori": "Makanan",
+      "id": 1
+    },
+    {
+      "namamenu": "Manis panas",
+      "harga": "6000",
+      "kategori": "Minuman",
+      "id": 2
+    }
+  ],
+  "pemesanan": [
+    {
+      "idkatalog": 1,
+      "qty": "2",
+      "status": "Belum Bayar",
+      "id": 1
+    },
+    {
+      "idkatalog": 1,
+      "qty": "2",
+      "status": "Belum Bayar",
+      "id": 2
+    }
+  ]
+}
